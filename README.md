@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor em formação com foco em **JavaScript, HTML e CSS**, construindo projetos práticos e evoluindo diariamente na área de tecnologia.
+Desenvolvedor em formação com foco em **JavaScript, HTML e CSS**, construindo projetos práticos e evoluindo diariamente na área de tecnologia.
 
 💡 Atualmente estudando:
 - Lógica de programação
