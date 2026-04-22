@@ -7,26 +7,39 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor em formação com foco em **JavaScript, HTML e CSS**, construindo projetos práticos e evoluindo diariamente na área de tecnologia.
+Desenvolvedor Front-End em formação, com foco em **JavaScript, HTML e CSS**, criando interfaces modernas e funcionais. Busco aplicar boas práticas de código e evoluir constantemente através de projetos práticos.
 
 💡 Atualmente estudando:
-- Lógica de programação
-- JavaScript (estrutura de repetição, funções, arrays)
-- Desenvolvimento web
+- Lógica de programação aplicada  
+- JavaScript (funções, arrays, manipulação do DOM)  
+- Desenvolvimento web responsivo  
 
-🎯 Objetivo: conquistar minha primeira oportunidade como desenvolvedor.
+🎯 Objetivo: atuar como desenvolvedor front-end, contribuindo com projetos reais e evoluindo profissionalmente na área de tecnologia.
+
+---
+
+## 🚀 Projetos
+
+🔗 **Site de Casamento**  
+Projeto desenvolvido com HTML, CSS e JavaScript, com foco em design elegante, responsividade e interatividade.
+
+🔗 **Lista de Convidados**  
+Aplicação com manipulação de DOM e armazenamento de dados no navegador.
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </p>
 
+💻 HTML5 | CSS3 | JavaScript (ES6+)
+
 ---
+
 
 ## 📊 Estatísticas
 
