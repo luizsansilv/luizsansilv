@@ -23,9 +23,6 @@ Desenvolvedor Front-End em formação, com foco em **JavaScript, HTML e CSS**, c
 🔗 **Site de Casamento**  
 Projeto desenvolvido com HTML, CSS e JavaScript, com foco em design elegante, responsividade e interatividade.
 
-🔗 **Lista de Convidados**  
-Aplicação com manipulação de DOM e armazenamento de dados no navegador.
-
 ---
 
 ## 🛠️ Tecnologias
